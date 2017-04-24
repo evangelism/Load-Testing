@@ -4,7 +4,7 @@
 
 Using auto provisioned agents:
 * [Run simple load tests from VSTS](https://almvm.azurewebsites.net/labs/vsts/load/) 
-* [Run major load tests from VS]() 
+* [Run major load tests from VS](https://www.visualstudio.com/en-us/docs/test/performance-testing/getting-started/getting-started-with-performance-testing) 
 
 Using self-provisioned agents (CLT agents inside your subscription on Azure IaaS):
 * [ARM-template create rig](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vsts-cloudloadtest-rig) 
@@ -32,9 +32,11 @@ Context parameter value – <name of the agent group>
 <img src="https://msdnshared.blob.core.windows.net/media/2016/08/clip_image0018.png"/>
 
 ## Get performance data
-* Application Insights
+* [Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-platforms)
 * [In Visual Studio](https://www.visualstudio.com/en-us/docs/test/performance-testing/getting-started/get-performance-data-for-load-tests) 
+* [Performance tests for Azure Web Apps](https://www.visualstudio.com/ru-ru/docs/test/performance-testing/app-service-web-app-performance-test)
 
 ## Additional Resources
 * [Cloud-Load Testing blog](https://blogs.msdn.microsoft.com/visualstudioalm/p/cltknowledgebase/)
 * [Visual Studio HoL](https://almvm.azurewebsites.net/)
+* [Billing](https://www.visualstudio.com/ru-ru/docs/setup-admin/team-services/set-up-billing-for-your-account-vs)

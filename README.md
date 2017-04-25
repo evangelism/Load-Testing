@@ -33,6 +33,7 @@ Context parameter value – <name of the agent group>
 
 ## Get performance data
 * [Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-platforms)
+* [Application Insights - demo data](https://analytics.applicationinsights.io/demo)
 * [In Visual Studio](https://www.visualstudio.com/en-us/docs/test/performance-testing/getting-started/get-performance-data-for-load-tests) 
 * [Performance tests for Azure Web Apps](https://www.visualstudio.com/ru-ru/docs/test/performance-testing/app-service-web-app-performance-test)
 
